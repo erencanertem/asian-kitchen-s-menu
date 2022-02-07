@@ -1,4 +1,3 @@
-# Kodluyoruz.org Javascript Kursu Ödev 3
+Asian Kitchen Menu Webpage
 
-## Asian Kitchen's Menu
-
+Used Tech : HTML, CSS, Javascript.
